@@ -1,11 +1,11 @@
 {
-    "name": "vendor/package",
+    "name": "avifatal/laravel-admin-modal",
     "description": "",
     "keywords": [],
     "homepage": "",
     "authors": [
         {
-            "name": "",
+            "name": "avifatal",
             "email": ""
         }
     ],
@@ -17,7 +17,7 @@
     },
     "autoload": {
        "psr-4": {
-         "Vendor\\Package\\": "src/Package"
+         "avifatal/\\laravel-admin-modal\\": "src/laravel-admin-modal"
         }
     },
     "license": "MIT"
